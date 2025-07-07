@@ -1,0 +1,34 @@
+product_id,image1,image2,name,description,rating,sponsored,company,seller_name,seller_contact
+P001,p001_img1.jpg,p001_img2.jpg,Coffee Mug Set,Coffee Mug Set description,3.7,Yes,Company1,Seller1,9000000001
+P002,p002_img1.jpg,p002_img2.jpg,Steel Mug,Steel Mug description,4.7,Yes,Company2,Seller2,9000000002
+P003,p003_img1.jpg,p003_img2.jpg,Ceramic Mug,Ceramic Mug description,4.6,Yes,Company3,Seller3,9000000003
+P004,p004_img1.jpg,p004_img2.jpg,Travel Mug,Travel Mug description,4.7,Yes,Company4,Seller4,9000000004
+P005,p005_img1.jpg,p005_img2.jpg,Thermal Mug,Thermal Mug description,3.5,No,Company5,Seller5,9000000005
+P006,p006_img1.jpg,p006_img2.jpg,Mouse X100,Mouse X100 description,3.8,Yes,Company6,Seller6,9000000006
+P007,p007_img1.jpg,p007_img2.jpg,Mouse X200,Mouse X200 description,4.5,Yes,Company7,Seller7,9000000007
+P008,p008_img1.jpg,p008_img2.jpg,Mouse Wireless,Mouse Wireless description,4.5,No,Company8,Seller8,9000000008
+P009,p009_img1.jpg,p009_img2.jpg,Decor Lamp,Decor Lamp description,4.1,Yes,Company9,Seller9,9000000009
+P010,p010_img1.jpg,p010_img2.jpg,Wall Painting,Wall Painting description,3.6,No,Company10,Seller10,9000000010
+P011,p011_img1.jpg,p011_img2.jpg,Flower Vase,Flower Vase description,4.8,Yes,Company11,Seller11,9000000011
+P012,p012_img1.jpg,p012_img2.jpg,LED Lights,LED Lights description,4.8,No,Company12,Seller12,9000000012
+P013,p013_img1.jpg,p013_img2.jpg,Bottle A1,Bottle A1 description,4.0,No,Company13,Seller13,9000000013
+P014,p014_img1.jpg,p014_img2.jpg,Bottle B2,Bottle B2 description,3.7,No,Company14,Seller14,9000000014
+P015,p015_img1.jpg,p015_img2.jpg,Bottle Steel,Bottle Steel description,4.9,Yes,Company15,Seller15,9000000015
+P016,p016_img1.jpg,p016_img2.jpg,Water Bottle Classic,Water Bottle Classic description,3.9,Yes,Company16,Seller16,9000000016
+P017,p017_img1.jpg,p017_img2.jpg,Smart Speaker,Smart Speaker description,3.9,Yes,Company17,Seller17,9000000017
+P018,p018_img1.jpg,p018_img2.jpg,Mini Fan,Mini Fan description,4.4,Yes,Company18,Seller18,9000000018
+P019,p019_img1.jpg,p019_img2.jpg,Laptop Stand,Laptop Stand description,4.1,Yes,Company19,Seller19,9000000019
+P020,p020_img1.jpg,p020_img2.jpg,Wall Clock,Wall Clock description,4.4,Yes,Company20,Seller20,9000000020
+P021,p021_img1.jpg,p021_img2.jpg,Ceramic Lamp,Ceramic Lamp description,4.5,Yes,Company21,Seller21,9000000021
+P022,p022_img1.jpg,p022_img2.jpg,Modern Lamp,Modern Lamp description,4.4,Yes,Company22,Seller22,9000000022
+P023,p023_img1.jpg,p023_img2.jpg,Classic Lamp,Classic Lamp description,4.2,No,Company23,Seller23,9000000023
+P024,p024_img1.jpg,p024_img2.jpg,Night Lamp,Night Lamp description,4.6,No,Company24,Seller24,9000000024
+P025,p025_img1.jpg,p025_img2.jpg,Table Lamp,Table Lamp description,4.2,Yes,Company25,Seller25,9000000025
+P026,p026_img1.jpg,p026_img2.jpg,Big Mug,Big Mug description,3.9,Yes,Company26,Seller26,9000000026
+P027,p027_img1.jpg,p027_img2.jpg,Mini Mug,Mini Mug description,3.9,No,Company27,Seller27,9000000027
+P028,p028_img1.jpg,p028_img2.jpg,Pattern Mug,Pattern Mug description,3.9,Yes,Company28,Seller28,9000000028
+P029,p029_img1.jpg,p029_img2.jpg,Round Wall Clock,Round Wall Clock description,4.6,Yes,Company29,Seller29,9000000029
+P030,p030_img1.jpg,p030_img2.jpg,Digital Wall Clock,Digital Wall Clock description,3.8,No,Company30,Seller30,9000000030
+P031,p031_img1.jpg,p031_img2.jpg,Antique Wall Clock,Antique Wall Clock description,4.4,Yes,Company31,Seller31,9000000031
+P032,p032_img1.jpg,p032_img2.jpg,Metal Wall Clock,Metal Wall Clock description,3.7,Yes,Company32,Seller32,9000000032
+P033,p033_img1.jpg,p033_img2.jpg,Wooden Wall Clock,Wooden Wall Clock description,4.2,Yes,Company33,Seller33,9000000033

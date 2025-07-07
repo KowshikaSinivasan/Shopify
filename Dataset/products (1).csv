@@ -1,0 +1,34 @@
+product_id,name,description,category,subcategory
+P001,Coffee Mug Set,Coffee Mug Set description,Kitchen,Mugs
+P002,Steel Mug,Steel Mug description,Kitchen,Mugs
+P003,Ceramic Mug,Ceramic Mug description,Kitchen,Mugs
+P004,Travel Mug,Travel Mug description,Kitchen,Mugs
+P005,Thermal Mug,Thermal Mug description,Kitchen,Mugs
+P006,Mouse X100,Mouse X100 description,Electronics,Computer Accessories
+P007,Mouse X200,Mouse X200 description,Electronics,Computer Accessories
+P008,Mouse Wireless,Mouse Wireless description,Electronics,Computer Accessories
+P009,Decor Lamp,Decor Lamp description,Home Decor,Decor
+P010,Wall Painting,Wall Painting description,Home Decor,Decor
+P011,Flower Vase,Flower Vase description,Home Decor,Decor
+P012,LED Lights,LED Lights description,Home Decor,Decor
+P013,Bottle A1,Bottle A1 description,Accessories,Bottles
+P014,Bottle B2,Bottle B2 description,Accessories,Bottles
+P015,Bottle Steel,Bottle Steel description,Accessories,Bottles
+P016,Water Bottle Classic,Water Bottle Classic description,Accessories,Bottles
+P017,Smart Speaker,Smart Speaker description,Electronics,Electronics
+P018,Mini Fan,Mini Fan description,Electronics,Electronics
+P019,Laptop Stand,Laptop Stand description,Electronics,Electronics
+P020,Wall Clock,Wall Clock description,Home Decor,Decor
+P021,Ceramic Lamp,Ceramic Lamp description,Home Decor,Decor
+P022,Modern Lamp,Modern Lamp description,Home Decor,Decor
+P023,Classic Lamp,Classic Lamp description,Home Decor,Decor
+P024,Night Lamp,Night Lamp description,Home Decor,Decor
+P025,Table Lamp,Table Lamp description,Home Decor,Decor
+P026,Big Mug,Big Mug description,Kitchen,Mugs
+P027,Mini Mug,Mini Mug description,Kitchen,Mugs
+P028,Pattern Mug,Pattern Mug description,Kitchen,Mugs
+P029,Round Wall Clock,Round Wall Clock description,Home Decor,Decor
+P030,Digital Wall Clock,Digital Wall Clock description,Home Decor,Decor
+P031,Antique Wall Clock,Antique Wall Clock description,Home Decor,Decor
+P032,Metal Wall Clock,Metal Wall Clock description,Home Decor,Decor
+P033,Wooden Wall Clock,Wooden Wall Clock description,Home Decor,Decor

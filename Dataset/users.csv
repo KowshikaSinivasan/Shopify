@@ -1,0 +1,6 @@
+user_id,name,phone,email,age,country,region,gender,orders,cart_items
+U001,User1,9000000001,user1@mail.com,39,USA,East,Female,4,3
+U002,User2,9000000002,user2@mail.com,20,Canada,North,Female,5,3
+U003,User3,9000000003,user3@mail.com,19,Canada,West,Male,1,1
+U004,User4,9000000004,user4@mail.com,30,Germany,North,Male,4,2
+U005,User5,9000000005,user5@mail.com,33,India,East,Female,3,2
